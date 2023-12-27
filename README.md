@@ -1,7 +1,7 @@
 # [JS BootCamp Assignment](./app.js)
 
-- Problem Statement:
-    - ## Assignment 1: Array Operations:
+- ## Problems:
+    - ## [Assignment 1: Array Operations:](/app.js)
         - ### Code:
             ![image](/Assets/As1.png)
         
@@ -10,7 +10,7 @@
             ![image](/Assets/As1Out.png)
 
 
-    - ## Assignment 2: Object Operations:
+    - ## [Assignment 2: Object Operations:](app.js)
         - ### Code:
             ![image](/Assets/As2.png)
 
@@ -19,7 +19,7 @@
             ![image](/Assets/As2Out.png)
 
 
-    - ## Assignment 3: Array of Objects Operation
+    - ## [Assignment 3: Array of Objects Operation](/app.js)
         - ### Code:
             ![image](/Assets/As3.png)
 
